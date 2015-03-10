@@ -1,0 +1,4 @@
+ Class Bank
+	money: 3000
+	name: PrivatBank
+	percent: 21
